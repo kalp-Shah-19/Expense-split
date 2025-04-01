@@ -1,2 +1,1 @@
-# Expense split
- Repo for Expense split project
+Expense-split project
